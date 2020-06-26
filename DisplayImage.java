@@ -7,7 +7,7 @@ public class DisplayImage extends Applet {
   Image picture;  
   
   public void init() {  
-    picture = getImage(getDocumentBase(),"java.jpg");  
+    picture = getImage(getDocumentBase(),"C:\\Users\\Admin\\Desktop\\Java Prgms\\Swings\\JApplet\\java.jpg");  
   }  
     
   public void paint(Graphics g) {  
